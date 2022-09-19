@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/sheep-a-sheep/static/css/main.86572242.css",
+    "main.js": "/sheep-a-sheep/static/js/main.498599f3.js",
+    "static/media/slots.png": "/sheep-a-sheep/static/media/slots.7146b7327f98952d0cfa.png",
+    "static/media/hay_tile.png": "/sheep-a-sheep/static/media/hay_tile.88b0ee6331c09fd5884f.png",
+    "index.html": "/sheep-a-sheep/index.html",
+    "main.86572242.css.map": "/sheep-a-sheep/static/css/main.86572242.css.map",
+    "main.498599f3.js.map": "/sheep-a-sheep/static/js/main.498599f3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.86572242.css",
+    "static/js/main.498599f3.js"
+  ]
+}
